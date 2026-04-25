@@ -19,7 +19,7 @@ This project will be a simple two-page personal portfolio website built with sem
 This website will...
 
 - Include an `index.html` homepage with a brief introduction, my interests, and links to my GitHub and relevant profiles in the navigation or footer
-- Include an `about.html` page with a more in-depth look at my work: interests, art, and/or modding projects
+- Include an `about.html` page with a more in-depth look at my work: coding, art, and/or video game modding projects
 - Use a single external `style.css` file that gives it a lively and fun vibe
 - Be housed in the *root* directory of a public GitHub repository
 
