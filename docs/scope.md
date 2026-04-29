@@ -18,8 +18,8 @@ This project will be a simple two-page personal portfolio website built with sem
 
 This website will...
 
-- Include an `index.html` homepage with a brief introduction, my interests, and links to my GitHub and relevant profiles in the navigation or footer
-- Include an `about.html` page with a more in-depth look at my work: coding, art, and/or video game modding projects
+- Include an `index.html` homepage with a brief introduction on me and my interests, along with links to my GitHub and relevant profiles in the navigation or footer
+- Include an `about.html` page with a more in-depth look at my artwork
 - Use a single external `style.css` file that gives it a lively and fun vibe
 - Be housed in the *root* directory of a public GitHub repository
 
@@ -28,9 +28,10 @@ This website will...
 > *What specific outcomes must we achieve to be successful?*
 
 - A valid `index.html` that uses semantic structural tags (`<header>`, `<main>`, `<footer>`, etc.)
-- A valid `about.html` that links back to the homepage and goes deeper into my work and interests!
+- A valid `about.html` that links back to the homepage and goes deeper into my work!
 - A `style.css` file that applies consistent styling across both pages
 - A `docs/` folder containing `scope.md`, `plan.md`, and `retrospective.md`
+- A `images/` folder containing any images I'd like to use for the website
 - A `README.md` detailing the purpose of the project along with linking to both the live site and the docs folder
 - Everything submitted as a single public GitHub repository before the deadline
 
