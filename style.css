@@ -35,9 +35,9 @@ header {
 }
 
 .header-img {
-    width: 68px;
-    height: 68px;
-    border: 2px solid #c0a0d4;
+    width: 75px;
+    height: 70px;
+    border: 1px solid #c0a0d4;
     object-fit: cover;
 }
 
@@ -95,7 +95,7 @@ main {
 }
 
 section {
-    margin-bottom: 56px;
+    margin-bottom: 24px;
 }
 
 p {
@@ -109,7 +109,7 @@ a {
 }
 
 a:hover {
-    color: #5020a0;
+    color: #c06880;
 }
 
 
@@ -138,20 +138,26 @@ article:hover {
 
 
 /* art gallery */
-.gallery h3 {
-    margin-top: 32px;
+.gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
 }
 
-.gallery-img {
-    margin: 8px 0 24px 0;
+.gallery-grid figure {
+    margin: 0;
 }
 
-.gallery-img img {
+.gallery-grid img {
     width: 100%;
-    max-width: 480px;
     display: block;
     border: 1px solid #c0a0d4;
 }
+
+.wide {
+    grid-column: span 2;
+}
+
 
 
 /* footer */
