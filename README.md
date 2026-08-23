@@ -8,7 +8,8 @@ The site covers who I am, what I work on, and where to find me online. Design-wi
 
 ## Where can I find it?
 
-You can visit the live website [here](https://beangusu.github.io)!
+~~You can visit the live website [here](https://beangusu.github.io)!~~
+No longer available :(
 
 ## Can I view your documentation?
 
